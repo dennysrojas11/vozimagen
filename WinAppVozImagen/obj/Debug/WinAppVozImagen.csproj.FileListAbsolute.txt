@@ -1,0 +1,10 @@
+C:\Users\denny\source\repos\WinAppVozImagen\WinAppVozImagen\bin\Debug\WinAppVozImagen.exe.config
+C:\Users\denny\source\repos\WinAppVozImagen\WinAppVozImagen\bin\Debug\WinAppVozImagen.exe
+C:\Users\denny\source\repos\WinAppVozImagen\WinAppVozImagen\bin\Debug\WinAppVozImagen.pdb
+C:\Users\denny\source\repos\WinAppVozImagen\WinAppVozImagen\obj\Debug\WinAppVozImagen.csprojAssemblyReference.cache
+C:\Users\denny\source\repos\WinAppVozImagen\WinAppVozImagen\obj\Debug\WinAppVozImagen.Form1.resources
+C:\Users\denny\source\repos\WinAppVozImagen\WinAppVozImagen\obj\Debug\WinAppVozImagen.Properties.Resources.resources
+C:\Users\denny\source\repos\WinAppVozImagen\WinAppVozImagen\obj\Debug\WinAppVozImagen.csproj.GenerateResource.cache
+C:\Users\denny\source\repos\WinAppVozImagen\WinAppVozImagen\obj\Debug\WinAppVozImagen.csproj.CoreCompileInputs.cache
+C:\Users\denny\source\repos\WinAppVozImagen\WinAppVozImagen\obj\Debug\WinAppVozImagen.exe
+C:\Users\denny\source\repos\WinAppVozImagen\WinAppVozImagen\obj\Debug\WinAppVozImagen.pdb
